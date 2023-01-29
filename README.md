@@ -15,8 +15,7 @@ Write down the code for book cover using HTML and CSS.
 ### Step 5:
 Add images and other contents using CSS record a screenshot of it.
 
-# Output:
-![output](Web.png)
+
 
 # Code:
 ## HTML:
@@ -108,5 +107,9 @@ footer{
     padding-right:60px;
   }
   ```
+  # Output:
+  
+![output](Web.png)
+
 # Result:
 Thus the program to develop a website to display the cover page design of a book is done.
